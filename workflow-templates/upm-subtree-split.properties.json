@@ -1,0 +1,5 @@
+{
+    "name": "UPM Subtree Split",
+    "description": "Splits out the package contents of a project into its own UPM branch",
+    "iconName": "git-branch"
+}
