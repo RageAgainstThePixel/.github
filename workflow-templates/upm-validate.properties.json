@@ -1,0 +1,5 @@
+{
+  "name": "UPM Validate Package",
+  "description": "Validates the contents of a upm package and ensure it builds using the defined build-options.json and all unit tests pass correctly",
+  "iconName": "cpu"
+}
