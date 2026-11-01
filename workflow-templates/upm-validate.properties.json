@@ -1,5 +1,5 @@
 {
   "name": "UPM Validate Package",
-  "description": "Validates the contents of a upm package and ensure it builds using the defined build-options.json and all unit tests pass correctly",
+  "description": "Validates the contents of a upm package and ensure it builds and all unit tests pass. Pull requests test the current Unity streams with the platform rows in build-options.json; a monthly run tests the older lines in build-options-legacy.json. Your build.yml takes matrix and allow-security-alert inputs",
   "iconName": "cpu"
 }
